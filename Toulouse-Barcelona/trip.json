@@ -2,11 +2,14 @@
   "title": "Toulouse-Barcelona",
   "stages": [
     {
-      "title": "Departure from Toulouse Matabiau!",
+      "title": "Départ from Toulouse Matabiau!",
       "description": "I am ready, I am on time, and my train too :)",
       "date": "2025-09-14",
       "coordinates": { "lat": 43.612973031237026, "lng": 1.4531744455622821 },
-      "pictures": ["1427731017303f2b3e4f8576bd5c90fb5a1da0286f_eins.jpg", "gare-matabiau-3.jpg"]
+      "pictures": [
+        "1427731017303f2b3e4f8576bd5c90fb5a1da0286f_eins.jpg",
+        "gare-matabiau-3.jpg"
+      ]
     },
     {
       "title": "Canal du Midi",
@@ -20,7 +23,10 @@
       "description": "Not the most exciting part of the trip...",
       "date": "2025-09-14",
       "coordinates": { "lat": 43.244082549033116, "lng": 2.275303063437222 },
-      "pictures": ["gare-de-narbonne-cedcbcaf-5970-4ece-97e2-aa2c3f36d5d-resize-750.jpg", "gare_de_narbonne_5.jpg"]
+      "pictures": [
+        "gare-de-narbonne-cedcbcaf-5970-4ece-97e2-aa2c3f36d5d-resize-750.jpg",
+        "gare_de_narbonne_5.jpg"
+      ]
     },
     {
       "title": "Port Leucate",
@@ -45,7 +51,10 @@
       "description": "Here we go! Now let's find the subway.",
       "date": "2025-09-14",
       "coordinates": { "lat": 41.37879848935037, "lng": 2.140596695035413 },
-      "pictures": ["barcelona-sants-train-station.jpg", "Where-to-stay-in-Girona.jpg"]
+      "pictures": [
+        "barcelona-sants-train-station.jpg",
+        "Where-to-stay-in-Girona.jpg"
+      ]
     }
   ]
 }
